@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistician4Worker", "Statistician4Worker\Statistician4Worker.csproj", "{55890F85-40BC-4533-9BEF-0C711D81267B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{171E1F43-75E0-4886-8E74-91318B34CF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55890F85-40BC-4533-9BEF-0C711D81267B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55890F85-40BC-4533-9BEF-0C711D81267B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55890F85-40BC-4533-9BEF-0C711D81267B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55890F85-40BC-4533-9BEF-0C711D81267B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171E1F43-75E0-4886-8E74-91318B34CF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171E1F43-75E0-4886-8E74-91318B34CF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171E1F43-75E0-4886-8E74-91318B34CF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171E1F43-75E0-4886-8E74-91318B34CF32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58588343-1C20-440F-A337-4BDBA145FB5A}
+	EndGlobalSection
+EndGlobal
